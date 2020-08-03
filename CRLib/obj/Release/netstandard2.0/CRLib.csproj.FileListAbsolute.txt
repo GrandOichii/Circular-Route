@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\bin\Release\netstandard2.0\CRLib.deps.json
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\bin\Release\netstandard2.0\CRLib.dll
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\bin\Release\netstandard2.0\CRLib.pdb
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\obj\Release\netstandard2.0\CRLib.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\obj\Release\netstandard2.0\CRLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\obj\Release\netstandard2.0\CRLib.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\obj\Release\netstandard2.0\CRLib.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\obj\Release\netstandard2.0\CRLib.dll
+C:\Users\Lenovo\source\repos\CircularRoute\CRLib\obj\Release\netstandard2.0\CRLib.pdb

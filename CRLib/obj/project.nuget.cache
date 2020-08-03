@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Mr+aTSJzNoA0BCNrF3wIcVo9/Ruc+St+WmTtTXhl6zVVyR3PAF7YgyAzbkECqZXo/J6jaKCqw5npbGRl96dyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\CircularRoute\\CRLib\\CRLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
